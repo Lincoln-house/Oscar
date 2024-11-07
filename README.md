@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <head>
     The Lincoln House - Arthur Terry 
-        }
-        h1.big {
-        }
+        
+        
     </style>
     <link href="lincoln_logo_temp.png" rel="shortcut icon">
 </head>

@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1 class="big"><b>Welcome to the Lincoln House!</b></h1>
-    <img src="Lincoln house logo.jpg" alt="The Lincoln House Logo (for now)">
+    <img src="Lincoln%20house%20logo.jpg" alt="The Lincoln House Logo (for now)">
     <p>This is a website completely managed by Oscar, and will have more updates as time progresses. For now, there isn't much.</p>
     <br>
     <p>Current Combined Praise Points:<br><em>TO BE ADDED</em></p>

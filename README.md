@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <head>
-    <title>The Lincoln House - Arthur Terry School</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-        body {
-            background-color:aliceblue;
-            font-family:Verdana, Geneva, Tahoma, sans-serif;
-            color:black;
-            text-align:center;
+    The Lincoln House - Arthur Terry 
         }
         h1.big {
             font-size: 60px;

@@ -3,7 +3,6 @@
     The Lincoln House - Arthur Terry 
         }
         h1.big {
-            font-size: 60px;
         }
     </style>
     <link href="lincoln_logo_temp.png" rel="shortcut icon">
